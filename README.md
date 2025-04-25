@@ -43,4 +43,9 @@ This project outlines the development of a comprehensive Online Shopping System 
 ## 💻 Explore the System's Foundation
 This project lays the groundwork for a functional online shopping platform, emphasizing data management, user roles, and core e-commerce features built with Java, data structures, and MySQL. 🎯
 ## ⭐ Your interest in the development of this Online Shopping System is appreciated!
+
+## Use case Diagram:
 ![image](https://github.com/user-attachments/assets/46c04f4f-1441-40de-a19d-71dab17558a6)
+
+## Class Diagram:
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/48f1d980-1012-4bcf-b8ec-5fba5efcab5d" />
