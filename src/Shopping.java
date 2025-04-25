@@ -4,7 +4,7 @@ import java.time.LocalDateTime;
 
 class Shopping {
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
-        try (Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3307/online_shopping", "root", "")) {
+        try (Connection con = DriverManager.getConnection("jdbc:mysql://localhost: your port /online_shopping", "root", "enter your password")) {
 
             S1 s = new S1(con);
             s.New_old_user(); 
