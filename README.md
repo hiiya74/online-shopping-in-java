@@ -48,4 +48,4 @@ This project lays the groundwork for a functional online shopping platform, emph
 ![image](https://github.com/user-attachments/assets/46c04f4f-1441-40de-a19d-71dab17558a6)
 
 ## Class Diagram:
-![image](https://github.com/user-attachments/assets/f4374ab4-c5a7-4b3c-952e-a48ab591a2b2)
+![image](https://github.com/user-attachments/assets/71e75e9b-cb56-4c53-8d1f-3049a38819b6)
